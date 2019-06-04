@@ -170,3 +170,17 @@ textarea {
 	color: #cfcfcf;
 	padding: 10px;
 }
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+	width: 900px;
+}
+footer p{
+    background-color: #36393e;
+    font-size: 15px;
+    line-height: 20px;
+	text-align: center;
+    margin-left: auto;
+	width: 100px;
+}
